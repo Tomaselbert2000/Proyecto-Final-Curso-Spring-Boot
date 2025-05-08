@@ -2,7 +2,7 @@
 Rest API para bazar/comercio
 
 Este proyecto consiste en una REST API para un comercio, en este caso puntual para un bazar
-pero está diseñada de manera genérica para poder usarla en otro tipo de comercios también
+pero está diseñada de manera genérica para poder usarla en otro tipo de comercios también.
 Esta API utiliza una base de datos MySQL para realizar operaciones de Alta, Baja, Modificación
 y Lectura (CRUD) de las siguientes clases:
 * Producto
